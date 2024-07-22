@@ -30,6 +30,8 @@ import java.util.Scanner;
 	    break;   
 	    case 5: System.out.println("Please have juice");  
 	    break; 
+	    case 6: System.out.println("Please have cooldirinks");  
+	    break;
 	    default:System.out.println("Invalid Option you have Enter, please choose valid option!");    
 	    }     
 
