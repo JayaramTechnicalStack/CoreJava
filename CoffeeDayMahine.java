@@ -8,7 +8,7 @@ import java.util.Scanner;
 		
 		System.out.println("Select your beverage Iteam");
 
-		System.out.println("1)coffee. 2)Tea. 3)milk. 4)hotwater.");
+		System.out.println("1)coffee. 2)Tea. 3)milk. 4)hotwater. 5)juice. 6)cooldrinks 7)hot drinks");
 		
 		Scanner sc=new Scanner(System.in);
 
