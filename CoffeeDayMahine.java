@@ -9,6 +9,7 @@ import java.util.Scanner;
 		System.out.println("Select your beverage Iteam");
 
 		System.out.println("1)coffee. 2)Tea. 3)milk. 4)hotwater.");
+		System.out.prinln("5)juice . 6)cooldrings 7) hotdrinks");
 		
 		Scanner sc=new Scanner(System.in);
 
