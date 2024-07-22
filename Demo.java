@@ -6,7 +6,7 @@ class Demo{
 
 public void input()
 {
-	 a=10;
+	 a=20;
 	 b=20;
 }
 

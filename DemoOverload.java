@@ -19,7 +19,7 @@ public class DemoOverload{
 
 		DemoOverload d=new DemoOverload();
 		int a=d.sum(10,20);
-		int b=d.sum(10, 20, 30);
+		int b=d.sum(10, 20, 60);
 		int c=d.sum(10);
 		
 		System.out.println(" x value  "+c);
