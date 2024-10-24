@@ -6,6 +6,7 @@ public class Employee {
 	private String ename;
 	private String eaddress;
 	private double salary;
+	private String designation;
 	
 	public int getEmpid() {
 		return empid;
