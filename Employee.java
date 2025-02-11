@@ -7,6 +7,7 @@ public class Employee {
 	private String eaddress;
 	private double salary;
 	private String designation;
+	private Department department;
 	
 	public int getEmpid() {
 		return empid;
