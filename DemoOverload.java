@@ -13,6 +13,11 @@ public class DemoOverload{
 	{
 		return x+y+z;
 	}
+	int sum(int a ,int b,int c,int d)
+	{
+		return a+b+c+d;
+	}
+
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
