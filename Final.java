@@ -18,6 +18,7 @@ public class Final
 	
 		Final f=new Final();
 		Final f = new Final(100);
+		Final f = new Final(100);
 		
 	}
 	
