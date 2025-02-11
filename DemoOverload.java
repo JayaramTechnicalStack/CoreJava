@@ -13,9 +13,9 @@ public class DemoOverload{
 	{
 		return x+y+z;
 	}
-	int sum(int x ,int y,int z,int i)
+	int sum(int a ,int b,int c,int d)
 	{
-		return x+y+z +i;
+		return a+b+c+d;
 	}
 
 	
