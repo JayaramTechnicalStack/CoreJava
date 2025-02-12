@@ -6,7 +6,7 @@ class Test{
 	void getGreetings(){
 	}
 }
-class Demo{}
+
 class Parent
 {
 	
