@@ -1,3 +1,6 @@
+
+class Test{}
+
 class Demo{
 
 	int a;
