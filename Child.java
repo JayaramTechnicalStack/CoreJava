@@ -1,9 +1,17 @@
-
+class Hello{
+	void getGreetings(){
+	}
+}
+class Test{
+	void getGreetings(){
+	}
+}
+class Demo{}
 class Parent
 {
 	
 	
-	
+	public Parent(){}
 	 void display()
 	{
 		System.out.println("Inside Parent Class");
@@ -17,6 +25,12 @@ class Child extends Parent{
 	 void display()
 	{
 		System.out.println("Inside child Display");
+		System.out.println("Inside child Display-2");
+
+	}
+	 void display2()
+	{
+		System.out.println("Inside child Display");
 
 	}
 
@@ -24,9 +38,16 @@ class Child extends Parent{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Parent p=new  Child();
+		Child c =new  Child();
+		
+
+		 p.display();
+Parent p=new  Child();
 		
 		 p.display();
+
+		 c.display();
+
 		
 
 	}

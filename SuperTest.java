@@ -12,6 +12,12 @@ class  Base
 	{
 		System.out.println("base class"+a+"  "+b);
 	}
+
+void show()
+	{
+		System.out.println("base class"+a+"  "+b);
+	}
+
 }
 
 class Der extends Base
