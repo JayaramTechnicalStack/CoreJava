@@ -1,7 +1,5 @@
 class Demo{
 
-	int a;
-	int b;
 	
 
 public void input()
