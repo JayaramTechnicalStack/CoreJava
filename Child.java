@@ -12,7 +12,7 @@ class Parent
 
 class Child extends Parent{
 
-
+	Child(){}
 	 void display()
 	{
 		System.out.println("Inside child Display");
