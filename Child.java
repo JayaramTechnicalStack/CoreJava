@@ -18,6 +18,11 @@ class Child extends Parent{
 		System.out.println("Inside child Display");
 
 	}
+	 void display2()
+	{
+		System.out.println("Inside child Display");
+
+	}
 
 	
 	public static void main(String[] args) {
