@@ -2,6 +2,10 @@ class Hello{
 	void getGreetings(){
 	}
 }
+class Test{
+	void getGreetings(){
+	}
+}
 class Parent
 {
 	
