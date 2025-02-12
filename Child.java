@@ -3,7 +3,7 @@ class Parent
 {
 	
 	
-	
+	public Parent(){}
 	 void display()
 	{
 		System.out.println("Inside Parent Class");
