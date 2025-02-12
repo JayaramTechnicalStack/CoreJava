@@ -30,7 +30,14 @@ class Child extends Parent{
 		
 		Child c =new  Child();
 		
+
+		 p.display();
+Parent p=new  Child();
+		
+		 p.display();
+
 		 c.display();
+
 		
 
 	}
