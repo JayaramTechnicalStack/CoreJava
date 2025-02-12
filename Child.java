@@ -1,4 +1,7 @@
-
+class Hello{
+	void getGreetings(){
+	}
+}
 class Parent
 {
 	
