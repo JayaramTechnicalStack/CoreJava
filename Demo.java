@@ -23,8 +23,6 @@ public static void main (String args[])
 	d.input();
 	d.output();
 
-	Demo d2 =new Demo();
-	d2.input();
-	d2.output();
+	
 }
 }
