@@ -26,6 +26,9 @@ class Child extends Parent{
 		Parent p=new  Child();
 		
 		 p.display();
+Parent p=new  Child();
+		
+		 p.display();
 		
 
 	}
