@@ -16,6 +16,7 @@ class Child extends Parent{
 	 void display()
 	{
 		System.out.println("Inside child Display");
+		System.out.println("Inside child Display-2");
 
 	}
 
