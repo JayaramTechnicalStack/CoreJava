@@ -13,6 +13,10 @@ System.out.println("Getting product detail info");
   System.out.pritnln("Product is create");
   }
 
+ public void updateProduct(){
+  System.out.pritnln("Product is updated");
+  }
+
 
 public static void main(String [] args){
 }
