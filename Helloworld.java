@@ -2,7 +2,7 @@
 class Helloworld
 {
 
-
+private String message;
 public static void main (String args[])
 {
 	
