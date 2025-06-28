@@ -15,7 +15,10 @@ class Parent
 {
 	
 	
-	public Parent(){}
+	public Parent(){
+System.out.println("Inside Parent constructor");
+
+}
 	 void display()
 	{
 		System.out.println("Inside Parent Class");
