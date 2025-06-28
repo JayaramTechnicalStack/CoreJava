@@ -1,6 +1,8 @@
 class Demo{
 
-	
+	static {
+		System.out.println("static block added");
+	}
 
 public void input()
 {

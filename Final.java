@@ -2,6 +2,10 @@
 public class Final
 {
 	final int speedlimit;
+static {
+		System.out.println("inside static block");
+
+	}
 	
 	Final()
 	{
