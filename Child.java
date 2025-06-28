@@ -1,7 +1,11 @@
 class Hello{
 	void getGreetings(){
 	}
+	public void test(){
+		System.out.println("hello")
+			}
 }
+
 class Test{
 	void getGreetings(){
 	}
