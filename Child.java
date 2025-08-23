@@ -22,6 +22,7 @@ System.out.println("Inside Parent constructor");
 	 void display()
 	{
 		System.out.println("Inside Parent Class");
+		System.out.println("Inside Parent Class-2");
 	}
 }
 
