@@ -1,7 +1,7 @@
 class Demo{
 
 	static {
-		System.out.println("static block added");
+		System.out.println("static block added by sai parthap");
 	}
 
 public void input()
